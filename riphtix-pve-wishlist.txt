@@ -1,0 +1,7 @@
+title:PvE Wishlist
+Gnawing Hunger
+dimwishlist:item=821154603&perks=1840239774,106909392,1820235745,3425386926,3523296417
+Chroma Rush
+dimwishlist:item=1119734784&perks=1840239774,106909392,1820235745,3592538738,186337601
+Wishlisted Perks
+dimwishlist:item=-69420&perks=3592538738
