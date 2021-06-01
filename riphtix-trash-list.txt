@@ -166,6 +166,3 @@ Bequest
 dimwishlist:item=-3366545721
 Steel Sybil Z-14
 dimwishlist:item=-4230993599
-
-Hated Perks (Osmosis, One For All)
-dimwishlist:item=-69420&perks=-1774574192,-4049631843
