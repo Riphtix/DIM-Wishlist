@@ -234,6 +234,9 @@ dimwishlist:item=2782325302&perks=3486498337
 Negative Space
 dimwishlist:item=3629968765&perks=3666208348,3625355092,3708227201,3486498337
 
+Wanted Perks (Wellspring, Subsistence, Rampage, Rapid Hit, Feeding Frenzy, Frenzy, Outlaw, Kill Clip, Multikill Clip, Vorpal Weapon, Dragonfly, Reconstruction, Firefly, Rewind Rounds, Lasting Impression, Cluster Bomb, Impulse Amplifier, Relentless Strikes, Whirlwind Blade, Jagged Edge, Swordmaster's Guard, Killing wind, Ricochet Rounds)
+dimwishlist:item=-69420&perks=3592538738,1820235745,3425386926,247725512,2779035018,4104185692,1168162263,1015611457,2458213969,1546637391,2848615171,1523832109,3824105627,3418782618,3927722942,1275731761,951095735,1749209109,3913600130,3666208348,269888150,2450788523,1885400500
+
 Trash List
 
 Whispering Slab
@@ -403,6 +406,3 @@ Bequest
 dimwishlist:item=-3366545721
 Steel Sybil Z-14
 dimwishlist:item=-4230993599
-
-Wanted Perks (Wellspring, Subsistence, Rampage, Rapid Hit, Feeding Frenzy, Frenzy, Outlaw, Kill Clip, Multikill Clip, Vorpal Weapon, Dragonfly, Reconstruction, Firefly, Rewind Rounds, Lasting Impression, Cluster Bomb, Impulse Amplifier, Relentless Strikes, Whirlwind Blade, Jagged Edge, Swordmaster's Guard, Killing wind, Ricochet Rounds)
-dimwishlist:item=-69420&perks=3592538738,1820235745,3425386926,247725512,2779035018,4104185692,1168162263,1015611457,2458213969,1546637391,2848615171,1523832109,3824105627,3418782618,3927722942,1275731761,951095735,1749209109,3913600130,3666208348,269888150,2450788523,1885400500
