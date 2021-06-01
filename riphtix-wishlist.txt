@@ -1,5 +1,4 @@
-title:PvE Wishlist
-//notes:PvE Roll
+title:Riphtix Wishlist
 Auto Rifles
 
 Gnawing Hunger
